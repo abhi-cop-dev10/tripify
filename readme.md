@@ -12,6 +12,37 @@ Assets: Flaticon, Icon 8<br />
 URL: https://documenter.getpostman.com/view/31808337/2s9Yyqjhhu
 <br />
 
+### Steps To Setup :gear:<br />
+```
+* Clone this repo to your local machine.
+* Using the terminal, navigate to the cloned repo.
+* Install all the necessary dependencies, as stipulated in the package.json file.
+* If you don't already have one, set up accounts with: MONGODB, MAPBOX, STRIPE, SENDGRID, and MAILTRAP.
+* Create config.env file in the root directory.
+* In your .env file, set environment variables for the following:
+    * DATABASE=your Mongodb database URL
+    * DATABASE_PASSWORD=your MongoDB password
+
+    * SECRET=your JSON web token secret
+    * JWT_EXPIRES_IN=90d
+    * JWT_COOKIE_EXPIRES_IN=90
+
+    * EMAIL_USERNAME=your mailtrap username
+    * EMAIL_PASSWORD=your mailtrap password
+    * EMAIL_HOST=smtp.mailtrap.io
+    * EMAIL_PORT=2525
+    * EMAIL_FROM=your real-life email address
+
+    * SENDGRID_USERNAME=apikey
+    * SENDGRID_PASSWORD=your sendgrid password
+
+    * STRIPE_SECRET_KEY=your stripe secret key
+    * STRIPE_WEBHOOK_SECRET=your stripe webhook secret
+
+* Start the server.
+* Your app should be running just fine.
+```
+
 ### Admin Login<br />
 Email: abhinay@tripify.com
 <br />
