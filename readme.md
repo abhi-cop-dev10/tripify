@@ -2,7 +2,7 @@
 
 ## Simple Web Application To Make Tour Booking
 
-### - Technologies<br />
+### Technologies<br />
 UI: HTML/CSS/Js/PUG<br />
 Backend: Node<br />
 Database: MongoDb<br />
@@ -24,3 +24,9 @@ Password: test1234
 
 ### DFD<br />
 ![User](https://github.com/abhi-cop-dev10/tripify/assets/62385700/12020e68-59de-439b-9664-d2a5ae4baba1)
+
+### Application Screenshots<br />
+![Screenshot 2024-01-29 083814](https://github.com/abhi-cop-dev10/tripify/assets/62385700/5d5f09bb-56a9-426e-9c3a-5c226d7b1434)
+743.png…]()
+
+![Screenshot 2024-01-29 083856](https://github.com/abhi-cop-dev10/tripify/assets/62385700/35bcc409-8004-4cfe-a200-cd17c142fadb)
