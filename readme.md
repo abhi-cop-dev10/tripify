@@ -53,6 +53,13 @@ Email: ankit@example.com
 <br />
 Password: test1234
 
+### To-Do :round_pushpin:<br />
+* Review and rating
+    * Allow users to add a review directly at the website after they have taken a tour Booking
+* Prevent duplicate bookings after a user has booked that exact tour, implement favorite tours
+* Signup, confirm user email, log in with refresh token, two-factor authentication
+* And More!
+
 ### DFD :framed_picture:<br />
 ![User](https://github.com/abhi-cop-dev10/tripify/assets/62385700/12020e68-59de-439b-9664-d2a5ae4baba1)
 
