@@ -2,7 +2,7 @@
 
 ## Simple Web Application To Make Tour Booking
 
-### Technologies<br />
+### - Technologies<br />
 UI: HTML/CSS/Js/PUG<br />
 Backend: Node<br />
 Database: MongoDb<br />
